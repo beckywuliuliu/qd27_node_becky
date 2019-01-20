@@ -1,0 +1,25 @@
+{
+  "name": "qd27_node_becky",
+  "version": "1.0.0",
+  "description": "qd27 node项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon src/app.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckywuliuliu/qd27_node_becky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beckywuliuliu/qd27_node_becky/issues"
+  },
+  "homepage": "https://github.com/beckywuliuliu/qd27_node_becky#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
